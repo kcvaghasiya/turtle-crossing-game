@@ -13,11 +13,13 @@ the same point turtle hits the car, then that is game over.
 2. Cars are randomly generated along the y-axis and will move from the right edge of the screen to the left edge.
 3. When the turtle hits the top edge of the screen, it moves back to the original position and the player levels up. On the next level, the car speed increases.
 4. When the turtle collides with a car, it's game over and everything stops.
+
    ```bash
    python main.py
 
-## Screenshot
 This is what a gameplay look a like.
+
+## Screenshot
 ![Turtle crossing Game](game-start.png)
 ![Turtle crossing Game](game-over.png)
 
