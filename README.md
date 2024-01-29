@@ -3,7 +3,7 @@
 We have a whole bunch of cars going across super busy multi-lane highway and turtle is the player who has to cross the road.
 
 ## Features
-A player control the turtle which can only go forward, and the whole buh of randomly generated car going horizontally on the screen.
+A player control the turtle which can only go forward, and the whole bunch of randomly generated car going horizontally on the screen.
 Now, Once a player reaches the otherside of the screen, the cars speed up and level increased, but the player goes back to the starting position, ready to cross the road again. When at 
 the same point turtle hits the car, then that is game over.
 
